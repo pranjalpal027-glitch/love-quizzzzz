@@ -14,12 +14,12 @@ const quiz = [
     {
         question: "Who said 'I love you' first?",
         options: [
-            "Me 😌",
-            "You ❤️",
+            "Bebu 😌",
+            "Bebo ❤️",
             "We said it together",
             "Still waiting… 😂"
         ],
-        correct: 0
+        correct: 1
     },
     {
         question: "Where did we spend our best memory together?",
