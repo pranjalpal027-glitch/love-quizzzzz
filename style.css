@@ -1,0 +1,55 @@
+body {
+    background: linear-gradient(to right, #ff9a9e, #fad0c4);
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 40px;
+}
+
+h1 {
+    color: white;
+}
+
+.quote {
+    color: white;
+    font-style: italic;
+    margin-bottom: 20px;
+}
+
+.gif {
+    width: 200px;
+    border-radius: 15px;
+    margin: 20px;
+}
+
+button {
+    display: block;
+    margin: 10px auto;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: none;
+    background-color: #ff4b5c;
+    color: white;
+    cursor: pointer;
+    width: 250px;
+}
+
+button:hover {
+    background-color: #ff1e38;
+}
+
+.correct {
+    background-color: #2ecc71 !important;
+}
+
+#message {
+    font-weight: bold;
+    margin-top: 15px;
+}
+
+.final {
+    background-color: #2ecc71;
+    padding: 20px;
+    border-radius: 15px;
+    color: white;
+    margin-top: 20px;
+}
